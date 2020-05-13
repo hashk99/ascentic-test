@@ -44,5 +44,4 @@ login
 	password - password
 
 
-
-by Hashan Kulasinghe - hashk99@gmail.com - 2019 - 07 - 18
+  
